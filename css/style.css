@@ -1,0 +1,20 @@
+.medsos-top {
+    float: left;
+    padding-right: 20px;
+    background-color: #15324a;
+  }
+
+.medsos {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+i {
+    font-size: 20px;
+}
+
+.tebal {
+    font-size: 20px;
+    font-weight: bold;
+}
